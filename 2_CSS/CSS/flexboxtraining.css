@@ -182,25 +182,24 @@ div {
     flex-basis: 70%;
 
     display: flex;
-
-    flex-wrap: nowrap;
     justify-content: space-between;
 }
 
+.con4-2-2 {
+    align-items: flex-end;
+}
+
 .con4-2-2-item1 {
-    width: 35%;
-    height: 50%;
-    background-color: red;
+    height: 150px;
+    flex-basis: 30%;
 }
 
 .con4-2-2-item2 {
-    width: 35%;
-    height: 50%;
-    background-color: red;
+    height: 150px;
+    flex-basis: 30%;
 }
 
 .con4-2-2-item3 {
-    width: 35%;
-    height: 50%;
-    background-color: red;
+    height: 150px;
+    flex-basis: 30%;
 }
